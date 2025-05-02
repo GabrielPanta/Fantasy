@@ -1,0 +1,11 @@
+C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\bin\Debug\net8.0\Fantasy.Shared.deps.json
+C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\bin\Debug\net8.0\Fantasy.Shared.dll
+C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\bin\Debug\net8.0\Fantasy.Shared.pdb
+C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.AssemblyInfoInputs.cache
+C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.AssemblyInfo.cs
+C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.dll
+C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\obj\Debug\net8.0\refint\Fantasy.Shared.dll
+C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.pdb
+C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\obj\Debug\net8.0\ref\Fantasy.Shared.dll
