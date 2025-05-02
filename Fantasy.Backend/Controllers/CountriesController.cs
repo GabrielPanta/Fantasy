@@ -6,6 +6,10 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Fantasy.Backend.Controllers
 {
+
+    /// <summary>
+    /// Gabriel
+    /// </summary>
     [ApiController]
     [Microsoft.AspNetCore.Mvc.Route("api/[controller]")]
     public class CountriesController:ControllerBase

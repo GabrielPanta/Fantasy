@@ -1658,11 +1658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GABRIEL PANTA\\source\\repos\\Fantasy\\Fantasy.Tests\\Fantasy.Tests.csproj",
+      "projectUniqueName": "C:\\Fantasy\\Fantasy.Tests\\Fantasy.Tests.csproj",
       "projectName": "Fantasy.Tests",
-      "projectPath": "C:\\Users\\GABRIEL PANTA\\source\\repos\\Fantasy\\Fantasy.Tests\\Fantasy.Tests.csproj",
+      "projectPath": "C:\\Fantasy\\Fantasy.Tests\\Fantasy.Tests.csproj",
       "packagesPath": "C:\\Users\\GABRIEL PANTA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GABRIEL PANTA\\source\\repos\\Fantasy\\Fantasy.Tests\\obj\\",
+      "outputPath": "C:\\Fantasy\\Fantasy.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -9,3 +9,15 @@ C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fant
 C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\obj\Debug\net8.0\refint\Fantasy.Shared.dll
 C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.pdb
 C:\Users\GABRIEL PANTA\source\repos\Fantasy\Fantasy.Shared\obj\Debug\net8.0\ref\Fantasy.Shared.dll
+C:\Fantasy\Fantasy.Shared\bin\Debug\net8.0\Fantasy.Shared.deps.json
+C:\Fantasy\Fantasy.Shared\bin\Debug\net8.0\Fantasy.Shared.dll
+C:\Fantasy\Fantasy.Shared\bin\Debug\net8.0\Fantasy.Shared.pdb
+C:\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.AssemblyInfoInputs.cache
+C:\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.AssemblyInfo.cs
+C:\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.csproj.CoreCompileInputs.cache
+C:\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.sourcelink.json
+C:\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.dll
+C:\Fantasy\Fantasy.Shared\obj\Debug\net8.0\refint\Fantasy.Shared.dll
+C:\Fantasy\Fantasy.Shared\obj\Debug\net8.0\Fantasy.Shared.pdb
+C:\Fantasy\Fantasy.Shared\obj\Debug\net8.0\ref\Fantasy.Shared.dll
